@@ -47,6 +47,9 @@
 
 ## Output:
 
+![WhatsApp Image 2024-04-21 at 16 20 50_47ef8bcd](https://github.com/keerthanapillaram/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145743072/931b2518-f21a-47d1-a1c9-c3ea56791e22)
+
+
 ![image](https://github.com/keerthanapillaram/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145743072/a9a95b8f-053f-4a03-90e0-1f4ca4c8a7ff)
 
 
